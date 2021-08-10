@@ -1,0 +1,15 @@
+
+
+main{
+    position: absolute;
+}
+canvas{
+   position: fixed;
+   top: 0;
+   left:0;
+   box-sizing: border-box;
+   overflow-x: hidden;
+   background-image: url('/thumb-1920-936378.jpg');
+}
+
+
